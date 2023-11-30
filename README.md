@@ -31,12 +31,17 @@ step to run this API Repository
 1. clone this repository use git clone https://github.com/DiansSopandi/api-avrin-crud.git 
 2. install nodeJs
 3. install nestJs globally with specific command: npm install -g @nestjs/cli
-4. no need sql file to create a mySQL table, just create a database on your local machine call "avrin"
+4. no need sql file to create a mySQL table, 
+   just create a database on your local machine call "avrin",
+
    so. just create a mySQL database with name call 'avrin'
    since nestJs is a code first , so its going to auto create table on "avrin" database name
 5. start the backend API application with yarn start or yarn start:dev   
 5. for testing this CRUD API, its could be to use postman tool 
-6. alternative to test without postman, just type http://http://localhost:8000/APIDocs, this link use swagger library to documentation the API 
+6. alternative to test without postman, just type http://http://localhost:8000/APIDocs, 
+   this link use swagger library to documentation the API and viola, you can play the CRUD action
+
+   thank you - this for averin test
 
 ## Installation
 
