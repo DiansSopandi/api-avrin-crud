@@ -41,7 +41,7 @@ step to run this API Repository
 6. alternative to test without postman, just type http://http://localhost:8000/APIDocs, 
    this link use swagger library to documentation the API and viola, you can play the CRUD action
 
-   thank you - this for averin test
+   thank you - averin test
 
 ## Installation
 
