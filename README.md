@@ -36,6 +36,7 @@ step to run this API Repository
 
    so. just create a mySQL database with name call 'avrin'
    since nestJs is a code first , so its going to auto create table on "avrin" database name
+   authentication to your mySQL local machine use no password
 5. start the backend API application with yarn start or yarn start:dev   
 5. for testing this CRUD API, its could be to use postman tool 
 6. alternative to test without postman, just type http://http://localhost:8000/APIDocs, 
